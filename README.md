@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Willy Anggi Pramulianto</h1>
 <h3 align="center">A passionate frontend & backend developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wap271203&label=Profile%20views&color=0e75b6&style=flat" alt="wap1203" /> </p>
+<p align="left"> <img src="https://drive.google.com/file/d/1Qpik3BIOesGFYfg0A2pVyYlN5JbXLgnp/view?usp=sharing" alt="wap1203" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wap271203" alt="wap1203" /></a> </p>
+<p align="left"> <a href="https://github.com/WAP1203"><img src="https://github-profile-trophy.vercel.app/?username=wap271203" alt="wap1203" /></a> </p>
 
 - 🌱 I’m currently learning **Game Development & Full Stack Developer**
 
