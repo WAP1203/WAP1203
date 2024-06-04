@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Willy Anggi Pramulianto</h1>
 <h3 align="center">A passionate frontend & backend developer from Indonesia</h3>
 
-<p align="left"> <img src="https://drive.google.com/file/d/1Qpik3BIOesGFYfg0A2pVyYlN5JbXLgnp/view?usp=sharing" alt="wap1203" /> </p>
+<p align="right"> <img src="https://pixabay.com/id/gifs/paprika-hijau-merica-gitaris-8079/" /> </p>
 
 <p align="left"> <a href="https://github.com/WAP1203"><img src="https://github-profile-trophy.vercel.app/?username=wap271203" alt="wap1203" /></a> </p>
 
