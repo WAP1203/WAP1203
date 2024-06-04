@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Willy Anggi Pramulianto</h1>
 <h3 align="center">A passionate frontend & backend developer from Indonesia</h3>
 
-<img align="right" alt="coding" width="400" src="https://pixabay.com/id/gifs/paprika-hijau-merica-gitaris-8079/">
+<img align="right" alt="coding" width="400" src="[https://pixabay.com/id/gifs/paprika-hijau-merica-gitaris-8079](https://id.images.search.yahoo.com/images/view;_ylt=Awr1Tgkqwl5mvB4DwdHNQwx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2E2N2Q0NDEyMmRjZTViNjQzOWU4ZDJiOTdlNjJiMTk3BGdwb3MDMjMEaXQDYmluZw--?back=https%3A%2F%2Fid.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Danimated%2Bgif%26fr%3Dcrmas%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D23&w=474&h=474&imgurl=clipart-library.com%2Fimages%2FziX5rzo7T.gif&rurl=http%3A%2F%2Fclipart-library.com%2Ffree-animated-gifs.html&size=928.9KB&p=animated+gif&oid=a67d44122dce5b6439e8d2b97e62b197&fr2=piv-web&fr=crmas&tt=Free+Free+Animated+Gifs%2C+Download+Free+Free+Animated+Gifs+png+images+...&b=0&ni=21&no=23&ts=&tab=organic&sigr=3nJS3vJwRIpo&sigb=bohFf3JKXJ4b&sigi=tQKLZXUe6tw9&sigt=32tAZafnoWi6&.crumb=lQIBnvZGRRe&fr=crmas&fr2=piv-web)">
 
 <p align="left"> <a href="https://github.com/WAP1203"><img src="https://github-profile-trophy.vercel.app/?username=wap271203" alt="wap1203" /></a> </p>
 
